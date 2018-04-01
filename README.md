@@ -6,7 +6,7 @@
 [![dependencies Status](https://david-dm.org/tiagomestre/ezconfig/status.svg)](https://david-dm.org/tiagomestre/ezconfig)
 [![devDependencies Status](https://david-dm.org/tiagomestre/ezconfig/dev-status.svg)](https://david-dm.org/tiagomestre/ezconfig?type=dev)
 
-Tool to simplify the configuration process of a node application.
+Tool to simplify the configuration of a node application.
 
 ### Installation
 
