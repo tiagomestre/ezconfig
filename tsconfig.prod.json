@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2015",
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "sourceMap": false,
+        "removeComments": true,
+		"allowSyntheticDefaultImports": false,
+		"allowUnreachableCode": false,
+		"alwaysStrict": true,
+		"allowUnusedLabels": false,
+        "declaration": true,
+		"noLib": false,
+		"newLine": "LF",
+        "preserveConstEnums": true,
+        "moduleResolution": "node",
+        "noResolve": false,
+        "noUnusedParameters": false,
+        "allowJs": false,
+        "noUnusedLocals": true,
+        "noImplicitUseStrict": false,
+        "pretty": false,
+        "experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"outDir": "build",
+        "typeRoots": ["node_modules/@types"],
+		"forceConsistentCasingInFileNames": true
+    },
+	"include": ["src/**/*.ts"],
+	"exclude": ["src/debug.ts"],
+    "compileOnSave": true
+}
