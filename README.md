@@ -40,7 +40,7 @@ process.env['APP_OTHERCOMPONENT_ARRAYSTRING'] = '"[1,2,3,4]"';
 const config = ezconfig
     .create(defaultConfig)
     .json({ something: 'good' })
-    .jsonFileSync('config.json')
+    .jsonFileSync('config.json') // file: { "api": { "specialPort": 6060 } }
     .envAll('APP')
     .env('PORT', 'api.port')
     .get();
