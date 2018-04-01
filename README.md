@@ -1,6 +1,6 @@
 ## ezconfig
 
-[![npm version](https://badge.fury.io/js/ezconfig.svg)](https://badge.fury.io/js/ezconfig)
+[![npm version](https://badge.fury.io/js/ezconfig-node.svg)](https://badge.fury.io/js/ezconfig-node)
 [![Build Status](https://travis-ci.org/tiagomestre/ezconfig.svg)](https://travis-ci.org/tiagomestre/ezconfig)
 [![Coverage Status](https://coveralls.io/repos/github/tiagomestre/ezconfig/badge.svg)](https://coveralls.io/github/tiagomestre/ezconfig)
 [![dependencies Status](https://david-dm.org/tiagomestre/ezconfig/status.svg)](https://david-dm.org/tiagomestre/ezconfig)
@@ -13,7 +13,7 @@ Tool to simplify the configuration process of a node application.
 You can get the latest release and the type definitions using npm:
 
 ```
-$ npm install ezconfig --save
+$ npm install ezconfig-node --save
 ```
 
 ### Example

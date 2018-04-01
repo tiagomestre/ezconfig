@@ -1,5 +1,5 @@
 {
-  "name": "ezconfig",
+  "name": "ezconfig-node",
   "version": "1.0.0",
   "description": "Configuration made easy for node application",
   "types": "build/index.d.ts",
