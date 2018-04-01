@@ -1,4 +1,4 @@
-import * as ezconfig from './../src';
+import * as ezconfig from 'ezconfig-node';
 
 const defaultConfig = {
     api: {
