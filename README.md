@@ -51,15 +51,15 @@ console.log(config);
 **Result:**
 ```json
 {
-    api: {
-        port: 9090,
-        specialPort: 6060
+    "api": {
+        "port": 9090,
+        "specialPort": 6060
     },
-    otherComponent: {
-        array: [1,2,3,4],
-        arrayString: '[1,2,3,4]'
+    "otherComponent": {
+        "array": [1,2,3,4],
+        "arrayString": "[1,2,3,4]"
     },
-    something: 'good'
+    "something": "good"
 }
 ```
 
