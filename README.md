@@ -13,7 +13,7 @@ Tool to simplify the configuration of a node application.
 You can get the latest release and the type definitions using npm:
 
 ```
-$ npm install ezconfig-node --save
+$ npm install --save ezconfig-node 
 ```
 
 ### Example
