@@ -76,6 +76,9 @@ ezconfig.create({ a: 1 }).json({ a: 2, b: 3 })
 
 **jsonFileSync**
 
+Merge a json file to the current configurations.
+
+**ignoreMissing** (optional) - Ignore missing file, default is true.
 
 ```javascript
 ezconfig.create().jsonFileSync('config.json').get()
